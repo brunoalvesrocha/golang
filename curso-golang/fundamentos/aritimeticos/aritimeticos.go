@@ -15,7 +15,7 @@ func main() {
 	fmt.Println("multiplicacao =>", a*b)
 	fmt.Println("modulo =>", a%b) //pega o resto da divisao entre a e b
 
-	//bitwise
+	//bitwise => quebra o valor em bits e efetua uma operacao
 	fmt.Println("E =>", a&b)  // 11 & 10 = 2
 	fmt.Println("Ou =>", a|b) // 11 | 10 = 3
 

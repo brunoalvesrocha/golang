@@ -15,7 +15,7 @@ func main() {
 	notaFinal := int(nota)
 	fmt.Println(notaFinal)
 
-	// cuidado
+	// cuidado ... pega o valor 97 da tabela ASCII
 	fmt.Println("Teste " + string(97))
 
 	// int para String
